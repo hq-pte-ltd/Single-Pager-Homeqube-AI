@@ -4,7 +4,7 @@ const minutes = document.getElementById('minutes');
 const seconds = document.getElementById('seconds');
 
 
-const releaseTime = new Date(2022, 06, 31, 12, 0, 0, 0);
+const releaseTime = new Date(2022, 09, 30, 12, 0, 0, 0);
 
 function updateCountdowntime(){
     const currentTime = new Date();
